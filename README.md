@@ -1,6 +1,5 @@
-<!-- Optional banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ethan-hann/ethan-hann/main/assets/banner.png" alt="Banner" />
+  <img src="https://github.com/ethan-hann/ethan-hann/main/assets/banner.png" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Ethan
