@@ -25,7 +25,7 @@ Create custom radio stations for Cyberpunk 2077, manage playlists, station metad
 ### 🖼 [Wolven Icon Generator](https://github.com/ethan-hann/Wolven-Icon-Generator)
 Generate and extract `.archive` icon files for use in Cyberpunk 2077. Built to integrate seamlessly with Cyber Radio Assistant.
 
-### ⚙️ AetherUtils
+### ⚙️ [AetherUtils](https://github.com/ethan-hann/AetherUtils)
 A general-purpose C# library for YAML-based configuration, background tasks, logging, and more. Built for reuse across all my .NET projects.
 
 ---
