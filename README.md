@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ethan-hann/ethan-hann/main/assets/banner.png" alt="Banner" />
+  <img src="https://github.com/ethan-hann/ethan-hann/blob/102fa13541ffcd33bf3b40efa8f36c3404d8c323/assets/banner.png" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Ethan
